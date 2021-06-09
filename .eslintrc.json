@@ -1,4 +1,5 @@
 {
+    "root":true,
     "env": {
         "browser": true,
         "es2021": true
@@ -30,7 +31,7 @@
     "ignorePatterns": ["webpack.config.js"],
     "settings": {
         "react":{
-            "version": "detect"
+        "version": "detect"
         }
     }
 }
