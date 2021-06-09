@@ -1,6 +1,5 @@
 import React from "react"
-import Component from "../app/Components/test"
-
+import Component from "../Components/Component"
 export interface AppProps {
   arg: string;
 }
@@ -8,6 +7,6 @@ export interface AppProps {
 export const App = ({arg}: AppProps):JSX.Element => (
   <h1>
     This is my {arg}
-    <Component/>
+     <Component/>
   </h1>
 )
