@@ -15,7 +15,7 @@ It tries to help by setting up:
 ```bash
 yarn install
 or
-npm run install
+npm install
 ```
 
 ## Testing
