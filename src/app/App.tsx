@@ -1,5 +1,5 @@
-import React from 'react'
-import Component from '../Components/Component'
+import React from "react"
+import Component from "../Components/Component"
 export interface AppProps {
     arg: string
 }
